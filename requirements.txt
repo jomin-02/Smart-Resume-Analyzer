@@ -1,0 +1,11 @@
+streamlit
+pypdf
+python-docx
+google-generativeai
+python-dotenv
+streamlit-lottie
+pandas
+plotly
+requests
+fpdf2
+kaleido
