@@ -1,4 +1,4 @@
-# Smart Resume Analyzer 🚀
+# Smart Resume Analyzer 
 
 An AI-powered Resume Analyzer built using Python and Streamlit that evaluates resumes based on role-specific skills, keyword matching, and ATS-style scoring.
 
